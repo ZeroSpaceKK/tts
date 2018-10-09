@@ -1,6 +1,6 @@
-# Privacy Policy
+# Pirate Adventure Privacy Policy
 
-This app understands the importance of personal information to you and will do its utmost to protect your personal information. We are committed to maintaining your trust in us and to abide by the following principles to protect your personal information: the principle of consistency of powers and responsibilities, the principle of clear objectives, the principle of choice and consent, the principle of least enough, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. . At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards.Please read and understand this Privacy Policy before using our products (or services).
+Pirate Adventure understands the importance of personal information to you and will do its utmost to protect your personal information. We are committed to maintaining your trust in us and to abide by the following principles to protect your personal information: the principle of consistency of powers and responsibilities, the principle of clear objectives, the principle of choice and consent, the principle of least enough, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. . At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards.Please read and understand this Privacy Policy before using our products (or services).
 
 1. How do we collect and use your personal information?
 
