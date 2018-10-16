@@ -1,4 +1,5 @@
 Pirate Adventure Privacy Policy
+
 Diese App respektiert und schützt die Privatsphäre aller Benutzer, die den Dienst verwenden. Um Ihnen genauere und persönlichere Dienstleistungen zu bieten, verwendet diese App Ihre persönlichen Daten in Übereinstimmung mit dieser Datenschutzrichtlinie und gibt diese weiter. Diese Anwendung behandelt diese Informationen jedoch mit einem hohen Maß an Sorgfalt und Vorsicht. Sofern in dieser Datenschutzrichtlinie nicht anders angegeben, wird diese Anwendung diese Informationen ohne Ihre vorherige Zustimmung nicht an Dritte weitergeben oder bereitstellen. Diese App aktualisiert diese Datenschutzerklärung von Zeit zu Zeit. Wenn Sie diesem Nutzungsvertrag für Anwendungsdienste zustimmen, gelten Sie als mit dem gesamten Inhalt dieser Datenschutzrichtlinie einverstanden. Diese Datenschutzerklärung ist ein wesentlicher Bestandteil dieses Application Service Agreements.
 
 1. Anwendungsbereich
