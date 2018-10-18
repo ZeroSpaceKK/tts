@@ -1,106 +1,34 @@
+
 MeteorFall Game Privacy Policy
 
-MeteorFall Game understands the importance of personal information to you and will do its utmost to protect your personal information. We are committed to maintaining your trust in us and to abide by the following principles to protect your personal information: the principle of consistency of powers and responsibilities, the principle of clear objectives, the principle of choice and consent, the principle of least enough, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. . At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards.Please read and understand this Privacy Policy before using our products (or services).
+This app respects and protects the privacy of all users who use the service. To provide you with more accurate and personalized services, this app uses and shares your personal information in accordance with this Privacy Policy. However, this application treats this information with a great deal of care and caution. Unless otherwise specified in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior consent. This app updates this privacy policy from time to time. If you consent to this Application Services Agreement, you agree to be bound by the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 
-How do we collect and use your personal information?
-Personal information refers to various information recorded electronically or otherwise that can identify a particular natural person or reflect the activity of a particular natural person, either alone or in combination with other information.We collect and use your personal information only for the purposes set out in this policy:
+Scope (a) the information in your browser and computer that the application automatically receives and records when you use the App Network Service or access the App Platform website, including but not limited to your IP address, browser type, data such as language used, date and time of access, hardware and software feature information, and required web page records;
+(b) User-related personal data that the application received from a business partner by legal means.
 
-(1) Provide online shopping service for you [Note: Example]
+Use Information (a) This application will not disclose your personal information to third parties that you sell, rent, share or exchange with you unless you have previously obtained your consent or the third party and the application (including the applicant). are separate or usual. The service will be made available to you and after the end of the service, access to all materials that it has previously been able to access will be blocked.
+(b) This Application also does not allow any third party to collect, process, sell or distribute your personal information in any way. Any user of this Application Platform who participates in the above activities, once found, has the right to terminate the service agreement with the user immediately.
 
-Business function 1: Register as a user
-To complete the account creation, you will need to provide the following information: your name, email address, username created and password.
+(c) In order to serve the User, the App may use the information that you use to provide you with information of interest to you, including but not limited to the receipt of product and service information or information Sharing Information with the App Partner Send information about its products and services (the latter requires your prior approval).
 
-During the registration process, if you provide the following additional information, it will help us to provide you with better service and experience: mobile phone number, job title, company, education background, However, if you do not provide this information, it will not affect the basic functions of using the service.
+Disclosure of Information Under the following circumstances, this application will disclose your personal information in whole or in part according to your personal wishes or the law:
+(a) pass it on to third parties with your prior consent;
 
-The above information provided by you will continue to be authorized for use during your use of the Service. When you cancel your account, we will stop using and delete the above information.
+(b) To provide the Products and Services you request, you must disclose your personal information to third parties;
 
-The above information will be stored in the People's Republic of China. If you need cross-border transmission, we will ask for your authorization.
+(c) disclosure to third parties or administrative or judicial authorities in accordance with applicable law or at the request of the administrative or judicial authorities;
 
-2, business function two: product display, personalized recommendation, send promotional marketing information.
+(d) If you are a Qualified IP Plaintiff and have submitted a complaint, the Respondent should, at the request of the Appellant, disclose this to the Respondent so that both parties can handle possible litigation.
 
-(1) We do not sell any goods and do not display any goods at the same time.
+(e) Other disclosures that this application considers appropriate in accordance with the Website's laws, rules, or policies.
 
-(2) Conduct internal data analysis and research, third-party SDK statistical services, and improve our products or services.
+Information storage and sharing The information and materials you collect in this application are stored in the application and / or affiliate servers that may be sent to your country, region, or location where the application receives information and materials Collects materials. It is called, saved and displayed outside the country.
 
-We collect data based on your interactions with us and the choices you make, including your privacy settings and the products and features you use. The data we collect may include SDK/API/JS code version, browser, Internet service provider, IP address, platform, timestamp, app identifier, app version, app distribution channel, standalone device identifier, iOS ad ID (IDFA), Android advertiser identifier, network card (MAC) address, International Mobile Equipment Identity (IMEI), device model, terminal manufacturer, terminal device operating system version, session start/stop time, language location, time zone, and Network status (WiFi, etc.), hard disk, CPU and battery usage.
+Use of Cookies (a) In the event that you do not refuse to accept cookies, the App will set cookies on your computer or access cookies so you can log in or use cookies-based services or features. This app uses cookies to provide you with thoughtful and personalized services, including advertising services.
 
-[Friendly Union +] Tip: This article must be retained. The above data collection field is the field required for the SDK analysis service provided by [You Union+]. It is recommended that the corresponding license terms should be retained in your privacy policy.
+(b) You have the right to accept or reject the acceptance of cookies. You can refuse to accept cookies by changing your browser settings. However, if you decline to accept cookies, you may not be able to log in or use this application web service or this cookie-based feature.
 
-When we want to use the information for other purposes not covered by this strategy, you will be asked for your consent in advance.
+(c) This policy applies to information obtained through the cookies provided in this application.
 
-When we want to use information collected for a specific purpose for other purposes, we will ask for your consent in advance.
-
-Second, how do we use cookies and similar technologies?
-
-(1) Cookies
-
-To keep your site up and running, we store a small data file called a cookie on your computer or mobile device. Cookies usually contain an identifier, a site name, and some numbers and characters. With cookies, websites can store data such as your preferences or items in your shopping basket.
-
-We do not use cookies for any purpose other than those stated in this policy. You can manage or delete cookies based on your preferences. You can clear all cookies saved on your computer, and most web browsers have the ability to block cookies. But if you do this, you will need to change the user settings yourself each time you visit our website.
-
-(2) Website beacons and pixel tags
-
-In addition to cookies, we use other technologies like web beacons and pixel tags on our website. For example, an email we send to you may contain a click URL that links to the content of our website. If you click on the link, we will track this click to help us understand your product or service preferences and improve customer service. A web beacon is usually a transparent image that is embedded in a website or email. With the pixel tags in the email, we can tell if the email is open. If you don't want your event to be tracked this way, you can unsubscribe from our mailing list at any time.
-
-(3) Do Not Track (Do not track)
-
-Many web browsers have a Do Not Track feature that publishes Do Not Track requests to websites. Currently, major Internet standards organizations have not yet established policies to dictate how websites should respond to such requests. But if your browser has Do Not Track enabled, all of our sites will respect your choice.
-
-How do we share, transfer, and publicly disclose your personal information?
-(1) Sharing
-
-We do not share your personal information with any other company, organization or individual, except in the following cases:
-
-Share with explicit consent: We will share your personal information with others after obtaining your explicit consent.
-
-We may share your personal information in accordance with laws and regulations or in accordance with the mandatory requirements of the competent government authorities.
-
-Share with our affiliates: Your personal information may be shared with our affiliates. We only share the necessary personal information and are bound by the purposes stated in this Privacy Policy. If the affiliate company wants to change the purpose of processing personal information, it will ask for your authorization again.
-
-Sharing with Authorized Partners: Certain of our services will be provided by authorized partners for the purposes stated in this Privacy Policy. We may share some of your personal information with our partners to provide better customer service and user experience. For example, companies that we hire to provide third-party data statistics and analysis services may need to collect and access personal data for data statistics and analysis. In this case, these companies must comply with our data privacy and security requirements. We will only share your personal information for legitimate, legitimate, necessary, specific, and specific purposes, and will only share the personal information necessary to provide the service.。
-
-(2) Transfer
-
-We will not transfer your personal information to any company, organization or individual except in the following cases:
-
-Transfer with explicit consent: After obtaining your explicit consent, we will transfer your personal information to other parties;
-
-In the case of mergers, acquisitions or bankruptcy liquidation, if we are involved in the transfer of personal information, we will continue to be bound by this privacy policy by requiring new companies and organizations that hold your personal information, otherwise we will require the company or organization. Renew your request for authorization。
-
-(3) Public disclosure
-
-We will only publicly disclose your personal information in the following circumstances:
-
-After obtaining your explicit consent;
-
-Disclosure based on law: We may publicly disclose your personal information in the event of legal, legal, litigation or mandatory requirements of the competent government authorities.
-
-How do we protect your personal information?
-
-(a) We have used industry-standard security measures to protect the personal information you provide against unauthorized access, public disclosure, use, modification, damage or loss. We will take all reasonable and practicable steps to protect your personal information. For example, when you exchange data (such as credit card information) between your browser and the "service", it is protected by SSL encryption; we also provide https secure browsing for our website; we use encryption technology to ensure the confidentiality of the data; we will Use trusted protection mechanisms to protect against malicious attacks; we deploy access control mechanisms to ensure that only authorized personnel have access to personal information; and we conduct security and privacy protection training courses to enhance employee awareness of the importance of protecting personal information. understanding.
-
-(2) We will take all reasonable and feasible measures to ensure that no irrelevant personal information is collected. We will only retain your personal information for the period of time required to achieve the purposes stated in this policy, unless the retention period is extended or permitted by law.
-
-(3) The Internet is not an absolutely secure environment, and email, instant messaging, and communication with other users are not encrypted. We strongly recommend that you do not send personal information in this way. Please use complex passwords to help us keep your account secure。
-
-(4) The Internet environment is not 100% secure and we will do our best to ensure or guarantee the security of any information you send us. If our physical, technical, or administrative protective equipment is destroyed, resulting in unauthorized access, public disclosure, alteration, or destruction of information, resulting in damage to your legal rights, we will bear the corresponding legal responsibilities.
-
-(5) After the unfortunate incident of personal information security, we will promptly inform you according to the requirements of laws and regulations: the basic situation and possible impact of the security incident, the disposal measures we have taken or will take, you can prevent and Suggestions for risk reduction, remedies for you, etc. We will promptly inform you of the relevant circumstances of the incident by mail, letter, telephone, push notification, etc. When it is difficult to inform the personal information subject one by one, we will issue a notice in a reasonable and effective manner.
-
-At the same time, we will also report the disposal of personal information security incidents in accordance with the requirements of the regulatory authorities.
-
-Your rights
-In accordance with China's relevant laws, regulations, standards, and other countries and regions, we guarantee that you exercise the following rights to your personal information:
-
-(1) Access to your personal information
-
-You have the right to access your personal information, except as provided by laws and regulations. If you want to exercise data access, you can access it yourself by:
-
-Account Information - If you wish to access or edit profile information and payment information in your account, change your password, add security information or close your account, you can do this by visiting this app.
-
-Search for information - You can access or clear your search history, view and modify interests, and manage other data in this app.
-
-If you have any questions, comments or suggestions about this Privacy Policy, please contact us through the App's internal contact information.
-
-In general, we will respond within thirty days.
+Changes to this Privacy Policy (a) If we
 
