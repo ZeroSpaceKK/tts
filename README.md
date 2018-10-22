@@ -1,5 +1,4 @@
-
-MeteorFall Game Privacy Policy
+Space-Run Game Privacy Policy
 
 This app respects and protects the privacy of all users who use the service. To provide you with more accurate and personalized services, this app uses and shares your personal information in accordance with this Privacy Policy. However, this application treats this information with a great deal of care and caution. Unless otherwise specified in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior consent. This app updates this privacy policy from time to time. If you consent to this Application Services Agreement, you agree to be bound by the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
 
