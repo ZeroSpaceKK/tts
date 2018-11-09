@@ -1,33 +1,29 @@
-Space-Run Game Privacy Policy
+休闲电子book-开心欢乐看隐私政策
 
-This app respects and protects the privacy of all users who use the service. To provide you with more accurate and personalized services, this app uses and shares your personal information in accordance with this Privacy Policy. However, this application treats this information with a great deal of care and caution. Unless otherwise specified in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior consent. This app updates this privacy policy from time to time. If you consent to this Application Services Agreement, you agree to be bound by the entire content of this Privacy Policy. This Privacy Policy is an integral part of this Application Service Agreement.
+此应用程序尊重并保护使用该服务的所有用户的隐私。为了向您提供更准确和个性化的服务，此应用程序根据本隐私政策使用和共享您的个人信息。但是，此应用程序非常小心谨慎地处理这些信息。除非本隐私政策另有规定，否则未经您事先同意，本应用程序不会向第三方披露或提供此信息。此应用程序不时更新此隐私政策。如果您同意本应用程序服务协议，则表示您同意受本隐私政策的全部内容约束。本隐私政策是本应用服务协议的组成部分。
 
-Scope (a) the information in your browser and computer that the application automatically receives and records when you use the App Network Service or access the App Platform website, including but not limited to your IP address, browser type, data such as language used, date and time of access, hardware and software feature information, and required web page records;
-(b) User-related personal data that the application received from a business partner by legal means.
+范围（a）您使用App Network Service或访问App Platform网站时应用程序自动接收和记录的浏览器和计算机中的信息，包括但不限于您的IP地址，浏览器类型，所用语言等数据，访问日期和时间，硬件和软件功能信息以及所需的网页记录; （b）申请通过法律手段从业务合作伙伴处收到的与用户相关的个人数据。
 
-Use Information (a) This application will not disclose your personal information to third parties that you sell, rent, share or exchange with you unless you have previously obtained your consent or the third party and the application (including the applicant). are separate or usual. The service will be made available to you and after the end of the service, access to all materials that it has previously been able to access will be blocked.
-(b) This Application also does not allow any third party to collect, process, sell or distribute your personal information in any way. Any user of this Application Platform who participates in the above activities, once found, has the right to terminate the service agreement with the user immediately.
+使用信息（a）除非您事先已获得您的同意或第三方和申请（包括申请人），否则本应用程序不会向您出售，出租，分享或与您交换的第三方披露您的个人信息。是单独的或通常的。该服务将提供给您，在服务结束后，将阻止访问以前能够访问的所有材料。 （b）本应用程序也不允许任何第三方以任何方式收集，处理，出售或分发您的个人信息。参与上述活动的此应用程序平台的任何用户一旦找到，就有权立即终止与用户的服务协议。
 
-(c) In order to serve the User, the App may use the information that you use to provide you with information of interest to you, including but not limited to the receipt of product and service information or information Sharing Information with the App Partner Send information about its products and services (the latter requires your prior approval).
+（c）为了向用户提供服务，应用程序可能会使用您使用的信息向您提供您感兴趣的信息，包括但不限于收到产品和服务信息或信息与应用程序合作伙伴共享信息发送有关其产品和服务的信息（后者需要您事先批准）。
 
-Disclosure of Information Under the following circumstances, this application will disclose your personal information in whole or in part according to your personal wishes or the law:
-(a) pass it on to third parties with your prior consent;
+信息披露在下列情况下，本申请将根据您的个人意愿或法律全部或部分披露您的个人信息：（a）在事先同意的情况下将其传递给第三方;
 
-(b) To provide the Products and Services you request, you must disclose your personal information to third parties;
+（b）要提供您要求的产品和服务，您必须向第三方披露您的个人信息;
 
-(c) disclosure to third parties or administrative or judicial authorities in accordance with applicable law or at the request of the administrative or judicial authorities;
+（c）根据适用法律或应行政或司法当局的要求向第三方或行政或司法当局披露;
 
-(d) If you are a Qualified IP Plaintiff and have submitted a complaint, the Respondent should, at the request of the Appellant, disclose this to the Respondent so that both parties can handle possible litigation.
+（d）如果您是合格的知识产权原告并且已提交投诉，则被投诉人应应上诉人的请求向被投诉人披露此事，以便双方可以处理可能的诉讼。
 
-(e) Other disclosures that this application considers appropriate in accordance with the Website's laws, rules, or policies.
+（e）本申请认为根据本网站的法律，规则或政策适用的其他披露。
 
-Information storage and sharing The information and materials you collect in this application are stored in the application and / or affiliate servers that may be sent to your country, region, or location where the application receives information and materials Collects materials. It is called, saved and displayed outside the country.
+信息存储和共享您在此应用程序中收集的信息和材料存储在应用程序和/或联盟服务器中，这些服务器可能会发送到您的国家，地区或应用程序接收信息和材料的位置收集材料。它在国外被呼叫，保存和显示。
 
-Use of Cookies (a) In the event that you do not refuse to accept cookies, the App will set cookies on your computer or access cookies so you can log in or use cookies-based services or features. This app uses cookies to provide you with thoughtful and personalized services, including advertising services.
+Cookies的使用（a）如果您不拒绝接受cookie，应用程序将在您的计算机上设置cookie或访问cookie，以便您可以登录或使用基于cookie的服务或功能。此应用程序使用cookie为您提供周到和个性化的服务，包括广告服务。
 
-(b) You have the right to accept or reject the acceptance of cookies. You can refuse to accept cookies by changing your browser settings. However, if you decline to accept cookies, you may not be able to log in or use this application web service or this cookie-based feature.
+（b）您有权接受或拒绝接受cookie。您可以通过更改浏览器设置拒绝接受cookie。但是，如果您拒绝接受cookie，则可能无法登录或使用此应用程序Web服务或此基于cookie的功能。
 
-(c) This policy applies to information obtained through the cookies provided in this application.
+（c）本政策适用于通过本申请中提供的cookie获得的信息。
 
-Changes to this Privacy Policy (a) If we
-
+本隐私政策的变更（a）如果我们
